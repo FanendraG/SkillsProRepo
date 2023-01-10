@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SkillsProRepo/v16
+/.vs
+/SkillsProWebApiService/SkillsProWebApiService/appsettings.json
